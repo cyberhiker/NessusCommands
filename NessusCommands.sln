@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NessusCommands", "NessusCommands\NessusCommands.vbproj", "{7DDC4DA3-CB7F-4FC9-B72A-BF4320D41EB8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{31D25ABB-C105-4353-B232-67E0CF284A06}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDC4DA3-CB7F-4FC9-B72A-BF4320D41EB8}.Debug|x86.ActiveCfg = Debug|x86
+		{7DDC4DA3-CB7F-4FC9-B72A-BF4320D41EB8}.Debug|x86.Build.0 = Debug|x86
+		{7DDC4DA3-CB7F-4FC9-B72A-BF4320D41EB8}.Release|x86.ActiveCfg = Release|x86
+		{7DDC4DA3-CB7F-4FC9-B72A-BF4320D41EB8}.Release|x86.Build.0 = Release|x86
+		{31D25ABB-C105-4353-B232-67E0CF284A06}.Debug|x86.ActiveCfg = Debug
+		{31D25ABB-C105-4353-B232-67E0CF284A06}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
